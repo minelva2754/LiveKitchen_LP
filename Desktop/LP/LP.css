@@ -1,0 +1,144 @@
+#top{
+	padding: 100px 0 0 0;
+	background: linear-gradient(#e8f800, #d8c801);
+}
+#top #title{
+	font-size: 550%;
+	font-family:"ヒラギノ角ゴ ProN";
+	font-weight: bold;
+	letter-spacing: 3px;
+}
+#top #content{
+	font-size: 300%;
+	margin:40px 0 0 0;
+}
+#top #phoneImg{
+	margin:50px 0 0 0;
+}
+
+
+
+#step{
+	padding: 80px 0 0 0;
+}
+#step #stepImg{
+	width: 60%;
+	height: 60%;
+}
+#step #title{
+	margin:60px 0 0 0;
+	font-size: 550%;
+	font-family:"ヒラギノ角ゴ ProN";
+	font-weight: bold;
+	letter-spacing: 3px;
+}
+#step #content{
+	font-size: 300%;
+	margin:40px 0 0 0;
+}
+#step #phoneImg{
+	padding:60px 0 0 20px;
+}
+
+
+
+#step2{
+	padding: 100px 0 0 0;
+	background: linear-gradient(#e8f800, #d8c801);
+
+}
+#step2 #title{
+	font-size: 550%;
+	font-family:"ヒラギノ角ゴ ProN";
+	font-weight: bold;
+	letter-spacing: 3px;
+}
+#step2 #content{
+	font-size: 300%;
+	margin:40px 0 0 0;
+}
+#step2 #phoneImg{
+	margin:20px 0 0 -20px;
+}
+
+
+
+#step3{
+	padding: 100px 0 0 0;
+
+}
+#step3 #title{
+	font-size: 550%;
+	font-family:"ヒラギノ角ゴ ProN";
+	font-weight: bold;
+	letter-spacing: 3px;
+	margin:80px 0 0 0;
+	line-height: 120%;
+}
+#step3 #content{
+	font-size: 300%;
+	margin:40px 0 0 0;
+}
+#step3 #phoneImg{
+	margin:40px 0 0 -20px;
+}
+
+
+
+#specific{
+	background-color: #eeeeee;
+	padding: 50px 0 120px 0;
+}
+#specific #title{
+	font-size: 550%;
+	font-family:"ヒラギノ角ゴ ProN";
+	font-weight: bold;
+	letter-spacing: 3px;
+	margin:80px 0 0 0;
+	line-height: 120%;
+}
+#specific #miniTitle{
+	font-size: 400%;
+	font-family:"ヒラギノ角ゴ ProN";
+	font-weight: bold;
+	letter-spacing: 3px;
+	margin:50px 0 0 0;
+	line-height: 120%;
+}
+#specific #content{
+	font-size: 300%;
+	margin:40px 0 0 0;
+}
+#specific #point{
+	margin:100px 0 0 0;
+}
+
+
+
+#resist{
+	padding: 60px 0 0 0;
+	background: linear-gradient(#e8f800, #d8c801);
+}
+#resist #phoneImg{
+	margin:50px 0 0 0;
+}
+#resist #logo{
+	margin:120px 0 0 50px; 
+}
+#resist #title{
+	margin:20px 0 0 50px; 
+	font-size: 300%;
+	font-family:"ヒラギノ角ゴ ProN";
+	font-weight: bold;
+	letter-spacing: 3px;
+}
+#resist #content{
+	font-size: 280%;
+	margin:30px 0 0 55px;
+}
+#resist #button{
+	margin:30px 0 0 50px; 
+}
+#resist #button2{
+	margin:20px 0 0 50px; 
+}
