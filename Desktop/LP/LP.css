@@ -142,3 +142,23 @@
 #resist #button2{
 	margin:20px 0 0 50px; 
 }
+
+
+
+#footer{
+	padding: 30px 0 0 0;
+	background: #000000;
+}
+#footer #title {
+	color:white;
+	font-size: 220%;
+	margin:80px 0 50px 0;
+	font-weight: bold;
+}
+#footer #link {
+	color:white;
+	margin:20px 0 0 0;
+	font-size: 220%; 
+}
+
+#footer a:link { color: #0000ff; }
