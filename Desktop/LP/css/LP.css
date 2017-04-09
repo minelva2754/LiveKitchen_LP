@@ -1,12 +1,12 @@
-
-
-
+body{
+ overflow-x: hidden;
+}
 #top{
 	padding: 100px 0 0 0;
 	background: linear-gradient(#e8f800, #d8c801);
 }
 #top #title{
-	font-size: 550em;
+	font-size: 550%;
 	font-family:"ヒラギノ角ゴ ProN";
 	font-weight: bold;
 	letter-spacing: 3px;
@@ -46,14 +46,15 @@
 
 
 #step2{
+	padding: 100px 0 0 0;
 	background: linear-gradient(#e8f800, #d8c801);
+
 }
 #step2 #title{
 	font-size: 550%;
 	font-family:"ヒラギノ角ゴ ProN";
 	font-weight: bold;
 	letter-spacing: 3px;
-	padding: 60px 0 0 0;
 }
 #step2 #content{
 	font-size: 300%;
@@ -164,9 +165,3 @@
 }
 
 #footer a:link { color: #0000ff; }
-#footer #title {
-	color:white;
-	font-size: 220%;
-	margin:80px 0 0 0;
-	font-weight: bold;
-}
